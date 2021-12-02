@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy.api;
+package com.example.UGD12_E_0193.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

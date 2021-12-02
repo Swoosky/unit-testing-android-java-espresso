@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy;
+package com.example.UGD12_E_0193;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,10 +11,10 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.gd8_x_yyyy.api.ApiClient;
-import com.example.gd8_x_yyyy.api.ApiInterface;
-import com.example.gd8_x_yyyy.models.Random;
-import com.example.gd8_x_yyyy.models.RandomResponse;
+import com.example.UGD12_E_0193.api.ApiClient;
+import com.example.UGD12_E_0193.api.ApiInterface;
+import com.example.UGD12_E_0193.models.Random;
+import com.example.UGD12_E_0193.models.RandomResponse;
 
 import org.json.JSONObject;
 

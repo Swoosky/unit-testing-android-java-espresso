@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy;
+package com.example.UGD12_E_0193;
 
 import org.junit.Test;
 

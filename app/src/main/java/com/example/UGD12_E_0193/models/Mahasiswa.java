@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy.models;
+package com.example.UGD12_E_0193.models;
 
 import com.google.gson.annotations.SerializedName;
 

@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy;
+package com.example.UGD12_E_0193;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -15,10 +15,10 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.gd8_x_yyyy.api.ApiClient;
-import com.example.gd8_x_yyyy.api.ApiInterface;
-import com.example.gd8_x_yyyy.models.Mahasiswa;
-import com.example.gd8_x_yyyy.models.MahasiswaResponse;
+import com.example.UGD12_E_0193.api.ApiClient;
+import com.example.UGD12_E_0193.api.ApiInterface;
+import com.example.UGD12_E_0193.models.Mahasiswa;
+import com.example.UGD12_E_0193.models.MahasiswaResponse;
 
 import org.json.JSONObject;
 

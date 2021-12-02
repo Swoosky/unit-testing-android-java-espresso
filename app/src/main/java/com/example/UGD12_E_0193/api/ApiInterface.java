@@ -1,9 +1,9 @@
-package com.example.gd8_x_yyyy.api;
+package com.example.UGD12_E_0193.api;
 
-import com.example.gd8_x_yyyy.models.Mahasiswa;
-import com.example.gd8_x_yyyy.models.MahasiswaResponse;
-import com.example.gd8_x_yyyy.models.Random;
-import com.example.gd8_x_yyyy.models.RandomResponse;
+import com.example.UGD12_E_0193.models.Mahasiswa;
+import com.example.UGD12_E_0193.models.MahasiswaResponse;
+import com.example.UGD12_E_0193.models.Random;
+import com.example.UGD12_E_0193.models.RandomResponse;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
